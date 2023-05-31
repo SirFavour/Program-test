@@ -1,4 +1,4 @@
-#Solution:
+
 # Basic Python Program to perform Arithmetic functions
 
 # Definition of the add function
